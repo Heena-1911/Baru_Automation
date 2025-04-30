@@ -1,0 +1,6 @@
+🔐 Login submitted
+✅ Logged in successfully
+✅ Project created
+✅ Project selected
+✅ Clicked on cart icon.
+✅ Item added to cart

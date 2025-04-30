@@ -1,0 +1,4 @@
+🔐 Login submitted
+✅ Logged in successfully
+✅ Project created
+✅ Project selected

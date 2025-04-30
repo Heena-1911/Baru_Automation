@@ -1,0 +1,5 @@
+🔐 Login submitted
+✅ Logged in successfully
+✅ Project created
+✅ Project selected
+⏳ Waiting for 'ADD TO SHOPPING CART' button...
